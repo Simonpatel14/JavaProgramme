@@ -39,13 +39,6 @@ public class ArrayDemo2 {
         }
         //System.arraycopy(src, srcPos,dest, destPos, length);
 
-        String hungry = "are you hungry";
-        if (hungry == "no") ;
-        {
-
-            System.out.println("Eat samosa");
-        }
-
 
     }
 }
